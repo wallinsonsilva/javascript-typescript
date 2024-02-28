@@ -1,0 +1,19 @@
+// Anotações String
+//Procura a string passada
+String.indexOf(string)
+//Procura a string passada começando do final
+String.lastIndexOf(string);
+//Pega uma determinada posição
+String.chatAt(int);
+//Procura a string passada e aceita regex também
+String.search(string);
+//Substitui uma string por outra
+String.replace(string,string);
+//Tamanho da string
+string.length
+//Pega um trecho da string
+string.slice(Int)
+//Fatia a string utilizando uma string
+string.split(string,int (opcional - quantidade de resultados))
+string.toUpperCase();
+string.toLowerCase();
