@@ -1,0 +1,16 @@
+// Anotações Numbers
+//Converter para string;
+num.toString();
+//Arredonda para baixo
+Math.floor();
+//Arredonda para cima
+Math.ceil();
+//Retorna o arredondamento para o inteiro mais próximo, sendo para cima ou para baixo
+Math.round();
+//Retorna o maior número de uma sequência de números
+Math.max();
+//Retorna o menor número de uma sequência de números
+Math.min();
+//Gera um número aleatório
+Math.random();
+
