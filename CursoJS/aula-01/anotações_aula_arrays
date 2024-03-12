@@ -1,0 +1,9 @@
+// Anotações arrays
+//Adicionar no final do array;
+arrays.push();
+//Adicionar no inicio do array;
+arrays.unshift();
+//Remove do final do array
+arrays.pop();
+//Remove do inicio do array;
+arrays.shift();
